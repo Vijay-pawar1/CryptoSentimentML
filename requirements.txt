@@ -6,3 +6,4 @@ xgboost
 matplotlib
 plotly
 jupyter
+ccxt
