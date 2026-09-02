@@ -1,0 +1,689 @@
+timestamp,signal,setup,confidence,risk_reward,reason
+2026-05-09 20:00:00,NO TRADE,BULLISH SETUP,0.6143866777420044,,"BUY setup detected, but R:R is only 0.48. Required R:R is greater than 2.5."
+2026-05-10 00:00:00,NO TRADE,BULLISH SETUP,0.6647347211837769,,"BUY setup detected, but R:R is only 1.63. Required R:R is greater than 2.5."
+2026-05-10 04:00:00,NO TRADE,BEARISH / BULLISH,0.6632288098335266,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-10 08:00:00,NO TRADE,BULLISH SETUP,0.6523224711418152,,"BUY setup detected, but R:R is only 0.29. Required R:R is greater than 2.5."
+2026-05-10 12:00:00,NO TRADE,RANGE / BULLISH,0.7259360551834106,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-10 16:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-05-10 20:00:00,BUY,BULLISH STRUCTURE,0.95,3.0733925484229263,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-05-11 00:00:00,NO TRADE,RANGE / BULLISH,0.5542499423027039,,Volatility model confidence is below 60%.
+2026-05-11 04:00:00,NO TRADE,BULLISH / RANGE,0.5332319140434265,,Volatility model confidence is below 60%.
+2026-05-11 08:00:00,NO TRADE,BEARISH / RANGE,0.5303598046302795,,Volatility model confidence is below 60%.
+2026-05-11 12:00:00,NO TRADE,BULLISH / BULLISH,0.5975493788719177,,Volatility model confidence is below 60%.
+2026-05-11 16:00:00,NO TRADE,RANGE / BULLISH,0.6460216641426086,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-11 20:00:00,NO TRADE,RANGE / BULLISH,0.6213700175285339,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-12 00:00:00,NO TRADE,BEARISH / BULLISH,0.6365941762924194,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-12 04:00:00,NO TRADE,BEARISH / RANGE,0.6045405864715576,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-12 08:00:00,NO TRADE,RANGE / RANGE,0.761838972568512,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-12 12:00:00,NO TRADE,RANGE / RANGE,0.7648271918296814,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-12 16:00:00,NO TRADE,BEARISH / RANGE,0.8507661819458008,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-12 20:00:00,NO TRADE,BEARISH / RANGE,0.6715193390846252,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-13 00:00:00,NO TRADE,RANGE / RANGE,0.5415462851524353,,Volatility model confidence is below 60%.
+2026-05-13 04:00:00,NO TRADE,BEARISH / RANGE,0.6036564707756042,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-13 08:00:00,NO TRADE,RANGE / RANGE,0.5873369574546814,,Volatility model confidence is below 60%.
+2026-05-13 12:00:00,NO TRADE,BULLISH / RANGE,0.7968657612800598,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-13 16:00:00,NO TRADE,BULLISH / RANGE,0.6629068851470947,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-13 20:00:00,NO TRADE,BEARISH / RANGE,0.56440669298172,,Volatility model confidence is below 60%.
+2026-05-14 00:00:00,NO TRADE,BEARISH / BEARISH,0.5869563817977905,,Volatility model confidence is below 60%.
+2026-05-14 04:00:00,NO TRADE,BEARISH / BEARISH,0.5732153058052063,,Volatility model confidence is below 60%.
+2026-05-14 08:00:00,NO TRADE,RANGE / RANGE,0.7282735109329224,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-14 12:00:00,NO TRADE,RANGE / BEARISH,0.7880202531814575,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-14 16:00:00,NO TRADE,BULLISH / RANGE,0.6207243800163269,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-14 20:00:00,NO TRADE,BULLISH / RANGE,0.5537149906158447,,Volatility model confidence is below 60%.
+2026-05-15 00:00:00,NO TRADE,RANGE / RANGE,0.6837071776390076,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-15 04:00:00,NO TRADE,RANGE / BULLISH,0.5239940881729126,,Volatility model confidence is below 60%.
+2026-05-15 08:00:00,NO TRADE,RANGE / RANGE,0.5778295993804932,,Volatility model confidence is below 60%.
+2026-05-15 12:00:00,NO TRADE,RANGE / RANGE,0.6661847829818726,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-15 16:00:00,NO TRADE,BEARISH / BEARISH,0.566601037979126,,Volatility model confidence is below 60%.
+2026-05-15 20:00:00,NO TRADE,BEARISH SETUP,0.7945030927658081,,"SELL setup detected, but R:R is only 0.87. Required R:R is greater than 2.5."
+2026-05-16 00:00:00,NO TRADE,RANGE / BEARISH,0.6450676918029785,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-16 04:00:00,NO TRADE,RANGE / BEARISH,0.6823703050613403,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-16 08:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-05-16 12:00:00,NO TRADE,BEARISH SETUP,0.695468544960022,,"SELL setup detected, but R:R is only 0.35. Required R:R is greater than 2.5."
+2026-05-16 16:00:00,NO TRADE,BULLISH / BEARISH,0.74747633934021,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-16 20:00:00,NO TRADE,RANGE / BEARISH,0.7196025252342224,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-17 00:00:00,NO TRADE,RANGE / BEARISH,0.5005844831466675,,Volatility model confidence is below 60%.
+2026-05-17 04:00:00,HOLD,BEARISH STRUCTURE,0.783251941204071,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-05-17 08:00:00,NO TRADE,BULLISH / BEARISH,0.6378158330917358,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-17 12:00:00,NO TRADE,BULLISH / RANGE,0.713438868522644,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-17 16:00:00,NO TRADE,BEARISH SETUP,0.7957565784454346,,"SELL setup detected, but R:R is only 0.36. Required R:R is greater than 2.5."
+2026-05-17 20:00:00,NO TRADE,RANGE / RANGE,0.6232355833053589,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-18 00:00:00,NO TRADE,BULLISH / BEARISH,0.8402753472328186,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-18 04:00:00,NO TRADE,RANGE / BEARISH,0.7186549305915833,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-18 08:00:00,NO TRADE,BEARISH SETUP,0.834280788898468,,"SELL setup detected, but R:R is only 0.91. Required R:R is greater than 2.5."
+2026-05-18 12:00:00,NO TRADE,RANGE / BEARISH,0.865527331829071,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-18 16:00:00,NO TRADE,BULLISH / BEARISH,0.7104741334915161,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-18 20:00:00,NO TRADE,RANGE / BEARISH,0.6952018737792969,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-19 00:00:00,NO TRADE,BULLISH / RANGE,0.6251052618026733,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-19 04:00:00,NO TRADE,RANGE / BEARISH,0.76167231798172,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-19 08:00:00,NO TRADE,BULLISH / RANGE,0.6879984140396118,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-19 12:00:00,NO TRADE,RANGE / BEARISH,0.8973610401153564,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-19 16:00:00,NO TRADE,BEARISH SETUP,0.8114282488822937,,"SELL setup detected, but R:R is only 1.60. Required R:R is greater than 2.5."
+2026-05-19 20:00:00,NO TRADE,RANGE / BEARISH,0.8205989003181458,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-20 00:00:00,HOLD,BEARISH STRUCTURE,0.7269760370254517,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-05-20 04:00:00,HOLD,BEARISH STRUCTURE,0.6402386426925659,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-05-20 08:00:00,NO TRADE,BEARISH / RANGE,0.584235429763794,,Volatility model confidence is below 60%.
+2026-05-20 12:00:00,NO TRADE,BULLISH / RANGE,0.7931101322174072,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-20 16:00:00,NO TRADE,RANGE / RANGE,0.7086558938026428,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-20 20:00:00,NO TRADE,RANGE / RANGE,0.6494278311729431,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-21 00:00:00,NO TRADE,RANGE / RANGE,0.6767398118972778,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-21 04:00:00,NO TRADE,RANGE / RANGE,0.5045114159584045,,Volatility model confidence is below 60%.
+2026-05-21 08:00:00,NO TRADE,RANGE / RANGE,0.5479846596717834,,Volatility model confidence is below 60%.
+2026-05-21 12:00:00,NO TRADE,BULLISH / RANGE,0.52372145652771,,Volatility model confidence is below 60%.
+2026-05-21 16:00:00,NO TRADE,RANGE / RANGE,0.638401448726654,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-21 20:00:00,NO TRADE,RANGE / RANGE,0.7866915464401245,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-22 00:00:00,NO TRADE,BEARISH / RANGE,0.600376307964325,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-22 04:00:00,NO TRADE,RANGE / RANGE,0.6258646249771118,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-22 08:00:00,NO TRADE,BULLISH / RANGE,0.6126305460929871,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-22 12:00:00,NO TRADE,BEARISH / RANGE,0.7625876069068909,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-22 16:00:00,NO TRADE,RANGE / BEARISH,0.5788280963897705,,Volatility model confidence is below 60%.
+2026-05-22 20:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-05-23 00:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-05-23 04:00:00,NO TRADE,BEARISH SETUP,0.7830581665039062,,"SELL setup detected, but R:R is only 0.58. Required R:R is greater than 2.5."
+2026-05-23 08:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-05-23 12:00:00,NO TRADE,BEARISH SETUP,0.6812402009963989,,"SELL setup detected, but R:R is only 0.51. Required R:R is greater than 2.5."
+2026-05-23 16:00:00,NO TRADE,BULLISH / RANGE,0.509411096572876,,Volatility model confidence is below 60%.
+2026-05-23 20:00:00,NO TRADE,BULLISH / RANGE,0.5987788438796997,,Volatility model confidence is below 60%.
+2026-05-24 00:00:00,NO TRADE,BULLISH / RANGE,0.7263274192810059,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-24 04:00:00,NO TRADE,RANGE / RANGE,0.6774672269821167,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-24 08:00:00,NO TRADE,RANGE / RANGE,0.6018589735031128,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-24 12:00:00,NO TRADE,BULLISH / RANGE,0.6865695714950562,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-24 16:00:00,NO TRADE,RANGE / RANGE,0.9152823686599731,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-24 20:00:00,NO TRADE,BEARISH / RANGE,0.5208254456520081,,Volatility model confidence is below 60%.
+2026-05-25 00:00:00,NO TRADE,BEARISH / RANGE,0.5562137365341187,,Volatility model confidence is below 60%.
+2026-05-25 04:00:00,NO TRADE,BULLISH / RANGE,0.5555018186569214,,Volatility model confidence is below 60%.
+2026-05-25 08:00:00,NO TRADE,BULLISH / RANGE,0.5262063145637512,,Volatility model confidence is below 60%.
+2026-05-25 12:00:00,NO TRADE,BULLISH / RANGE,0.5125428438186646,,Volatility model confidence is below 60%.
+2026-05-25 16:00:00,NO TRADE,BULLISH / RANGE,0.6159067749977112,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-25 20:00:00,NO TRADE,BULLISH / RANGE,0.8019541501998901,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-26 00:00:00,NO TRADE,BEARISH / RANGE,0.5184004902839661,,Volatility model confidence is below 60%.
+2026-05-26 04:00:00,NO TRADE,BEARISH / RANGE,0.7211251854896545,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-26 08:00:00,NO TRADE,BEARISH / RANGE,0.6658130288124084,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-26 12:00:00,NO TRADE,RANGE / RANGE,0.53106290102005,,Volatility model confidence is below 60%.
+2026-05-26 16:00:00,NO TRADE,BULLISH / RANGE,0.6974897980690002,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-26 20:00:00,NO TRADE,RANGE / BEARISH,0.6614274978637695,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-27 00:00:00,NO TRADE,BEARISH SETUP,0.6270189881324768,,"SELL setup detected, but R:R is only 0.62. Required R:R is greater than 2.5."
+2026-05-27 04:00:00,SELL,BEARISH STRUCTURE,0.9489433860778809,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-05-27 08:00:00,HOLD,BEARISH STRUCTURE,0.7519800066947937,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-05-27 12:00:00,NO TRADE,RANGE / BEARISH,0.8697203993797302,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-27 16:00:00,NO TRADE,RANGE / BEARISH,0.6392531394958496,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-27 20:00:00,NO TRADE,BEARISH SETUP,0.7476824522018433,,"SELL setup detected, but R:R is only 1.30. Required R:R is greater than 2.5."
+2026-05-28 00:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-05-28 04:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-05-28 08:00:00,NO TRADE,RANGE / BEARISH,0.6910449862480164,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-28 12:00:00,NO TRADE,BULLISH / BEARISH,0.5076160430908203,,Volatility model confidence is below 60%.
+2026-05-28 16:00:00,NO TRADE,BEARISH / BEARISH,0.5213758945465088,,Volatility model confidence is below 60%.
+2026-05-28 20:00:00,NO TRADE,RANGE / BEARISH,0.657471239566803,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-29 00:00:00,NO TRADE,BULLISH / BEARISH,0.7807000279426575,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-29 04:00:00,HOLD,BEARISH STRUCTURE,0.7234605550765991,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-05-29 08:00:00,NO TRADE,BULLISH / BEARISH,0.5641268491744995,,Volatility model confidence is below 60%.
+2026-05-29 12:00:00,NO TRADE,RANGE / BEARISH,0.7345113754272461,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-29 16:00:00,NO TRADE,BEARISH / RANGE,0.6715297102928162,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-29 20:00:00,NO TRADE,BULLISH / BEARISH,0.8924254179000854,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-30 00:00:00,NO TRADE,RANGE / BEARISH,0.783264696598053,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-30 04:00:00,NO TRADE,RANGE / BEARISH,0.722458004951477,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-30 08:00:00,NO TRADE,BEARISH SETUP,0.8399596810340881,,"SELL setup detected, but R:R is only 0.88. Required R:R is greater than 2.5."
+2026-05-30 12:00:00,NO TRADE,RANGE / RANGE,0.8981200456619263,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-30 16:00:00,NO TRADE,BULLISH / RANGE,0.6166584491729736,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-30 20:00:00,NO TRADE,BULLISH / RANGE,0.7257062196731567,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-31 00:00:00,NO TRADE,RANGE / RANGE,0.8039930462837219,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-31 04:00:00,NO TRADE,BULLISH / RANGE,0.8433773517608643,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-31 08:00:00,NO TRADE,BULLISH / RANGE,0.7132703065872192,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-31 12:00:00,NO TRADE,BEARISH / RANGE,0.7380993366241455,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-31 16:00:00,NO TRADE,BEARISH / RANGE,0.9258265495300293,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-05-31 20:00:00,NO TRADE,BEARISH SETUP,0.8963443636894226,,"SELL setup detected, but R:R is only 1.42. Required R:R is greater than 2.5."
+2026-06-01 00:00:00,NO TRADE,RANGE / BEARISH,0.7276878356933594,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-01 04:00:00,NO TRADE,RANGE / RANGE,0.5103006958961487,,Volatility model confidence is below 60%.
+2026-06-01 08:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-01 12:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-01 16:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-01 20:00:00,NO TRADE,RANGE / BEARISH,0.5368196964263916,,Volatility model confidence is below 60%.
+2026-06-02 00:00:00,NO TRADE,BEARISH SETUP,0.6695124506950378,,"SELL setup detected, but R:R is only 0.74. Required R:R is greater than 2.5."
+2026-06-02 04:00:00,NO TRADE,BEARISH SETUP,0.6232797503471375,,"SELL setup detected, but R:R is only 0.90. Required R:R is greater than 2.5."
+2026-06-02 08:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-02 12:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-02 16:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-02 20:00:00,NO TRADE,BEARISH SETUP,0.8793609738349915,,"SELL setup detected, but R:R is only 0.67. Required R:R is greater than 2.5."
+2026-06-03 00:00:00,NO TRADE,BEARISH SETUP,0.9071086645126343,,"SELL setup detected, but R:R is only 0.51. Required R:R is greater than 2.5."
+2026-06-03 04:00:00,NO TRADE,RANGE / BEARISH,0.8588119745254517,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-03 08:00:00,NO TRADE,RANGE / BEARISH,0.7040165662765503,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-03 12:00:00,HOLD,BEARISH STRUCTURE,0.8646997213363647,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-06-03 16:00:00,NO TRADE,BEARISH / BEARISH,0.5377850532531738,,Volatility model confidence is below 60%.
+2026-06-03 20:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-04 00:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-04 04:00:00,NO TRADE,BEARISH / BEARISH,0.5003153085708618,,Volatility model confidence is below 60%.
+2026-06-04 08:00:00,NO TRADE,RANGE / BEARISH,0.7493677735328674,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-04 12:00:00,NO TRADE,RANGE / BEARISH,0.635776698589325,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-04 16:00:00,NO TRADE,RANGE / BEARISH,0.6346259713172913,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-04 20:00:00,NO TRADE,BULLISH / BEARISH,0.8336931467056274,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-05 00:00:00,NO TRADE,RANGE / RANGE,0.8622667193412781,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-05 04:00:00,NO TRADE,BULLISH / BEARISH,0.5500936508178711,,Volatility model confidence is below 60%.
+2026-06-05 08:00:00,HOLD,BEARISH STRUCTURE,0.6962183713912964,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-06-05 12:00:00,NO TRADE,BEARISH / BEARISH,0.5351244211196899,,Volatility model confidence is below 60%.
+2026-06-05 16:00:00,NO TRADE,BEARISH / BEARISH,0.5744152665138245,,Volatility model confidence is below 60%.
+2026-06-05 20:00:00,NO TRADE,BEARISH / BEARISH,0.5702025890350342,,Volatility model confidence is below 60%.
+2026-06-06 00:00:00,NO TRADE,RANGE / BEARISH,0.7949495911598206,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-06 04:00:00,NO TRADE,BULLISH / BEARISH,0.5942704677581787,,Volatility model confidence is below 60%.
+2026-06-06 08:00:00,HOLD,BEARISH STRUCTURE,0.92270427942276,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-06-06 12:00:00,NO TRADE,BULLISH / BEARISH,0.9118551015853882,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-06 16:00:00,NO TRADE,RANGE / BEARISH,0.9143654108047485,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-06 20:00:00,NO TRADE,BEARISH SETUP,0.6723378896713257,,"SELL setup detected, but R:R is only 0.57. Required R:R is greater than 2.5."
+2026-06-07 00:00:00,NO TRADE,RANGE / RANGE,0.8459123373031616,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-07 04:00:00,NO TRADE,RANGE / RANGE,0.5415493249893188,,Volatility model confidence is below 60%.
+2026-06-07 08:00:00,NO TRADE,BULLISH / RANGE,0.881165087223053,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-07 12:00:00,NO TRADE,BULLISH / RANGE,0.7334909439086914,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-07 16:00:00,NO TRADE,BEARISH / RANGE,0.5601638555526733,,Volatility model confidence is below 60%.
+2026-06-07 20:00:00,NO TRADE,BULLISH / RANGE,0.5183881521224976,,Volatility model confidence is below 60%.
+2026-06-08 00:00:00,NO TRADE,RANGE / RANGE,0.5433027744293213,,Volatility model confidence is below 60%.
+2026-06-08 04:00:00,NO TRADE,RANGE / RANGE,0.6282354593276978,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-08 08:00:00,NO TRADE,BEARISH / RANGE,0.6119353175163269,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-08 12:00:00,NO TRADE,RANGE / RANGE,0.5436015725135803,,Volatility model confidence is below 60%.
+2026-06-08 16:00:00,NO TRADE,BULLISH / RANGE,0.7612190842628479,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-08 20:00:00,NO TRADE,RANGE / RANGE,0.7857270240783691,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-09 00:00:00,NO TRADE,RANGE / RANGE,0.5137773752212524,,Volatility model confidence is below 60%.
+2026-06-09 04:00:00,NO TRADE,BULLISH / RANGE,0.547353208065033,,Volatility model confidence is below 60%.
+2026-06-09 08:00:00,NO TRADE,RANGE / RANGE,0.5423247218132019,,Volatility model confidence is below 60%.
+2026-06-09 12:00:00,NO TRADE,RANGE / RANGE,0.7307056784629822,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-09 16:00:00,NO TRADE,RANGE / BEARISH,0.7184128761291504,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-09 20:00:00,NO TRADE,BEARISH / BEARISH,0.5282604098320007,,Volatility model confidence is below 60%.
+2026-06-10 00:00:00,NO TRADE,BEARISH / BEARISH,0.572556734085083,,Volatility model confidence is below 60%.
+2026-06-10 05:00:00,NO TRADE,RANGE / BEARISH,0.5089033246040344,,Volatility model confidence is below 60%.
+2026-06-10 09:00:00,NO TRADE,BEARISH / BEARISH,0.5317736864089966,,Volatility model confidence is below 60%.
+2026-06-10 13:00:00,NO TRADE,RANGE / BEARISH,0.61921626329422,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-10 17:00:00,NO TRADE,BULLISH / RANGE,0.5394783616065979,,Volatility model confidence is below 60%.
+2026-06-10 21:00:00,NO TRADE,BULLISH / BEARISH,0.6202166080474854,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-11 01:00:00,NO TRADE,RANGE / RANGE,0.5346943736076355,,Volatility model confidence is below 60%.
+2026-06-11 05:00:00,NO TRADE,BEARISH / RANGE,0.5771453380584717,,Volatility model confidence is below 60%.
+2026-06-11 09:00:00,NO TRADE,BULLISH / RANGE,0.565016508102417,,Volatility model confidence is below 60%.
+2026-06-11 13:00:00,NO TRADE,BULLISH / RANGE,0.7432012557983398,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-11 17:00:00,NO TRADE,RANGE / RANGE,0.5829482078552246,,Volatility model confidence is below 60%.
+2026-06-11 21:00:00,NO TRADE,RANGE / RANGE,0.7281820178031921,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-12 01:00:00,NO TRADE,BULLISH / RANGE,0.6202508807182312,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-12 05:00:00,NO TRADE,RANGE / RANGE,0.6274335980415344,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-12 09:00:00,NO TRADE,RANGE / RANGE,0.648216724395752,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-12 13:00:00,NO TRADE,BEARISH / RANGE,0.8254840970039368,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-12 17:00:00,NO TRADE,BULLISH / RANGE,0.7043583393096924,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-12 21:00:00,NO TRADE,RANGE / RANGE,0.7184723019599915,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-13 01:00:00,NO TRADE,RANGE / BULLISH,0.680962324142456,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-13 05:00:00,NO TRADE,RANGE / RANGE,0.9029456377029419,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-13 09:00:00,NO TRADE,RANGE / BULLISH,0.9393250346183777,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-13 13:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-06-13 17:00:00,NO TRADE,BULLISH SETUP,0.6825359463691711,,"BUY setup detected, but R:R is only 1.55. Required R:R is greater than 2.5."
+2026-06-13 21:00:00,NO TRADE,RANGE / BULLISH,0.6330433487892151,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-14 01:00:00,NO TRADE,RANGE / BULLISH,0.6748591661453247,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-14 05:00:00,NO TRADE,BULLISH SETUP,0.6958246827125549,,"BUY setup detected, but R:R is only 1.40. Required R:R is greater than 2.5."
+2026-06-14 09:00:00,NO TRADE,BEARISH / BULLISH,0.8021617531776428,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-14 13:00:00,NO TRADE,BULLISH / RANGE,0.5147804021835327,,Volatility model confidence is below 60%.
+2026-06-14 17:00:00,NO TRADE,RANGE / RANGE,0.7685961127281189,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-14 21:00:00,NO TRADE,BEARISH / RANGE,0.823627233505249,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-15 01:00:00,NO TRADE,RANGE / BULLISH,0.631455659866333,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-15 05:00:00,NO TRADE,BULLISH SETUP,0.6667534708976746,,"BUY setup detected, but R:R is only 0.26. Required R:R is greater than 2.5."
+2026-06-15 09:00:00,NO TRADE,BULLISH / BULLISH,0.5731821060180664,,Volatility model confidence is below 60%.
+2026-06-15 13:00:00,NO TRADE,RANGE / BULLISH,0.6087786555290222,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-15 17:00:00,NO TRADE,BULLISH SETUP,0.7220023274421692,,"BUY setup detected, but R:R is only 0.73. Required R:R is greater than 2.5."
+2026-06-15 21:00:00,NO TRADE,RANGE / BULLISH,0.5632439851760864,,Volatility model confidence is below 60%.
+2026-06-16 01:00:00,NO TRADE,RANGE / BULLISH,0.5491119027137756,,Volatility model confidence is below 60%.
+2026-06-16 05:00:00,NO TRADE,BEARISH / RANGE,0.5054386258125305,,Volatility model confidence is below 60%.
+2026-06-16 09:00:00,NO TRADE,RANGE / BULLISH,0.6458926200866699,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-16 13:00:00,NO TRADE,RANGE / BULLISH,0.5836347341537476,,Volatility model confidence is below 60%.
+2026-06-16 17:00:00,NO TRADE,BEARISH / RANGE,0.5161938667297363,,Volatility model confidence is below 60%.
+2026-06-16 21:00:00,NO TRADE,RANGE / RANGE,0.56803297996521,,Volatility model confidence is below 60%.
+2026-06-17 01:00:00,NO TRADE,RANGE / RANGE,0.540711522102356,,Volatility model confidence is below 60%.
+2026-06-17 05:00:00,NO TRADE,BULLISH / RANGE,0.5953934192657471,,Volatility model confidence is below 60%.
+2026-06-17 09:00:00,NO TRADE,RANGE / RANGE,0.730449378490448,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-17 13:00:00,NO TRADE,BEARISH / RANGE,0.8324773907661438,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-17 17:00:00,NO TRADE,RANGE / RANGE,0.8570098876953125,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-17 21:00:00,NO TRADE,RANGE / RANGE,0.5748229622840881,,Volatility model confidence is below 60%.
+2026-06-18 01:00:00,NO TRADE,RANGE / RANGE,0.5168914794921875,,Volatility model confidence is below 60%.
+2026-06-18 05:00:00,NO TRADE,BEARISH / RANGE,0.5622767210006714,,Volatility model confidence is below 60%.
+2026-06-18 09:00:00,NO TRADE,BEARISH / RANGE,0.5167896747589111,,Volatility model confidence is below 60%.
+2026-06-18 13:00:00,NO TRADE,RANGE / RANGE,0.729095458984375,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-18 17:00:00,NO TRADE,BEARISH / RANGE,0.5625302791595459,,Volatility model confidence is below 60%.
+2026-06-18 21:00:00,NO TRADE,BEARISH SETUP,0.6077538728713989,,"SELL setup detected, but R:R is only 0.47. Required R:R is greater than 2.5."
+2026-06-19 01:00:00,NO TRADE,RANGE / BEARISH,0.5003131628036499,,Volatility model confidence is below 60%.
+2026-06-19 05:00:00,NO TRADE,BEARISH / BEARISH,0.5887954235076904,,Volatility model confidence is below 60%.
+2026-06-19 09:00:00,NO TRADE,RANGE / BEARISH,0.7855307459831238,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-19 13:00:00,HOLD,BEARISH STRUCTURE,0.8797145485877991,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-06-19 17:00:00,NO TRADE,BULLISH / BEARISH,0.6723203063011169,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-19 21:00:00,NO TRADE,RANGE / RANGE,0.5679646730422974,,Volatility model confidence is below 60%.
+2026-06-20 01:00:00,NO TRADE,RANGE / RANGE,0.5869251489639282,,Volatility model confidence is below 60%.
+2026-06-20 05:00:00,NO TRADE,BULLISH / RANGE,0.5473769307136536,,Volatility model confidence is below 60%.
+2026-06-20 09:00:00,NO TRADE,RANGE / RANGE,0.5696994066238403,,Volatility model confidence is below 60%.
+2026-06-20 13:00:00,NO TRADE,BULLISH / RANGE,0.5505871772766113,,Volatility model confidence is below 60%.
+2026-06-20 17:00:00,NO TRADE,RANGE / RANGE,0.5615593194961548,,Volatility model confidence is below 60%.
+2026-06-20 21:00:00,NO TRADE,BULLISH / RANGE,0.5862205028533936,,Volatility model confidence is below 60%.
+2026-06-21 01:00:00,NO TRADE,RANGE / RANGE,0.5141779780387878,,Volatility model confidence is below 60%.
+2026-06-21 05:00:00,NO TRADE,RANGE / RANGE,0.6934497356414795,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-21 09:00:00,NO TRADE,BULLISH / RANGE,0.6582787036895752,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-21 13:00:00,NO TRADE,BEARISH / RANGE,0.6912540197372437,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-21 17:00:00,NO TRADE,RANGE / RANGE,0.5087348222732544,,Volatility model confidence is below 60%.
+2026-06-21 21:00:00,NO TRADE,BEARISH / RANGE,0.755826473236084,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-22 01:00:00,NO TRADE,BEARISH / RANGE,0.7690116763114929,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-22 05:00:00,NO TRADE,RANGE / RANGE,0.6006138324737549,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-22 09:00:00,NO TRADE,BULLISH / RANGE,0.6560825109481812,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-22 13:00:00,NO TRADE,BULLISH / RANGE,0.7009960412979126,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-22 17:00:00,NO TRADE,BULLISH SETUP,0.6235978007316589,,"BUY setup detected, but R:R is only 1.56. Required R:R is greater than 2.5."
+2026-06-22 21:00:00,NO TRADE,BULLISH / RANGE,0.6427947878837585,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-23 01:00:00,NO TRADE,BEARISH / RANGE,0.5730928182601929,,Volatility model confidence is below 60%.
+2026-06-23 05:00:00,NO TRADE,RANGE / RANGE,0.6412620544433594,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-23 09:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-23 13:00:00,NO TRADE,RANGE / BEARISH,0.7933709621429443,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-23 17:00:00,NO TRADE,BULLISH / BEARISH,0.8524720668792725,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-23 21:00:00,NO TRADE,BEARISH SETUP,0.7435348033905029,,"SELL setup detected, but R:R is only 1.09. Required R:R is greater than 2.5."
+2026-06-24 01:00:00,NO TRADE,RANGE / RANGE,0.5010596513748169,,Volatility model confidence is below 60%.
+2026-06-24 05:00:00,NO TRADE,RANGE / BEARISH,0.5673038959503174,,Volatility model confidence is below 60%.
+2026-06-24 09:00:00,NO TRADE,BEARISH / RANGE,0.5455573797225952,,Volatility model confidence is below 60%.
+2026-06-24 13:00:00,NO TRADE,RANGE / BEARISH,0.6951791048049927,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-24 17:00:00,NO TRADE,RANGE / BEARISH,0.8974645137786865,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-24 21:00:00,NO TRADE,RANGE / BEARISH,0.5525000095367432,,Volatility model confidence is below 60%.
+2026-06-25 01:00:00,NO TRADE,RANGE / BEARISH,0.615198016166687,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-25 05:00:00,NO TRADE,RANGE / RANGE,0.5426029562950134,,Volatility model confidence is below 60%.
+2026-06-25 09:00:00,NO TRADE,BULLISH / RANGE,0.6120450496673584,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-25 13:00:00,NO TRADE,BULLISH / BEARISH,0.83137446641922,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-25 17:00:00,NO TRADE,BEARISH SETUP,0.8289126753807068,,"SELL setup detected, but R:R is only 0.75. Required R:R is greater than 2.5."
+2026-06-25 21:00:00,NO TRADE,RANGE / BEARISH,0.5936762690544128,,Volatility model confidence is below 60%.
+2026-06-26 01:00:00,NO TRADE,BULLISH / BEARISH,0.5895533561706543,,Volatility model confidence is below 60%.
+2026-06-26 05:00:00,NO TRADE,RANGE / BEARISH,0.5125151872634888,,Volatility model confidence is below 60%.
+2026-06-26 09:00:00,NO TRADE,BULLISH / RANGE,0.920120358467102,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-26 13:00:00,NO TRADE,RANGE / BEARISH,0.8125434517860413,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-26 17:00:00,NO TRADE,RANGE / RANGE,0.8987650871276855,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-26 21:00:00,NO TRADE,RANGE / BEARISH,0.9359784722328186,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-27 01:00:00,NO TRADE,RANGE / RANGE,0.9570492506027222,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-27 05:00:00,NO TRADE,RANGE / RANGE,0.840930700302124,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-27 09:00:00,NO TRADE,BULLISH / RANGE,0.8377782106399536,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-27 13:00:00,NO TRADE,RANGE / RANGE,0.5256741642951965,,Volatility model confidence is below 60%.
+2026-06-27 17:00:00,NO TRADE,RANGE / RANGE,0.6262310743331909,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-27 21:00:00,NO TRADE,BEARISH / RANGE,0.626741886138916,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-28 01:00:00,NO TRADE,BEARISH / BEARISH,0.5404843091964722,,Volatility model confidence is below 60%.
+2026-06-28 05:00:00,NO TRADE,BULLISH / BEARISH,0.7443656921386719,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-28 09:00:00,NO TRADE,RANGE / RANGE,0.6023603677749634,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-28 13:00:00,NO TRADE,BULLISH / RANGE,0.6153150796890259,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-28 17:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-28 21:00:00,NO TRADE,BEARISH SETUP,0.9198630452156067,,"SELL setup detected, but R:R is only 0.17. Required R:R is greater than 2.5."
+2026-06-29 01:00:00,NO TRADE,BEARISH SETUP,0.9140787720680237,,"SELL setup detected, but R:R is only 1.02. Required R:R is greater than 2.5."
+2026-06-29 05:00:00,NO TRADE,RANGE / RANGE,0.6985243558883667,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-29 09:00:00,NO TRADE,BULLISH / BEARISH,0.7360531687736511,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-29 13:00:00,NO TRADE,RANGE / RANGE,0.8468161225318909,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-29 17:00:00,NO TRADE,RANGE / RANGE,0.5118153095245361,,Volatility model confidence is below 60%.
+2026-06-29 21:00:00,NO TRADE,RANGE / RANGE,0.7545536160469055,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-30 01:00:00,NO TRADE,BULLISH / RANGE,0.6208683252334595,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-30 05:00:00,NO TRADE,RANGE / BEARISH,0.6954634189605713,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-06-30 09:00:00,NO TRADE,BEARISH SETUP,0.7335278391838074,,"SELL setup detected, but R:R is only 0.04. Required R:R is greater than 2.5."
+2026-06-30 13:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-06-30 17:00:00,NO TRADE,BEARISH SETUP,0.8240554928779602,,"SELL setup detected, but R:R is only 0.25. Required R:R is greater than 2.5."
+2026-06-30 21:00:00,NO TRADE,BEARISH / BEARISH,0.5689292550086975,,Volatility model confidence is below 60%.
+2026-07-01 01:00:00,NO TRADE,RANGE / BEARISH,0.8905764222145081,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-01 05:00:00,NO TRADE,BEARISH / RANGE,0.6980940699577332,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-01 09:00:00,NO TRADE,BULLISH / RANGE,0.5859429836273193,,Volatility model confidence is below 60%.
+2026-07-01 13:00:00,NO TRADE,BEARISH SETUP,0.7167012095451355,,"SELL setup detected, but R:R is only 1.98. Required R:R is greater than 2.5."
+2026-07-01 17:00:00,NO TRADE,RANGE / RANGE,0.6330774426460266,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-01 21:00:00,NO TRADE,RANGE / RANGE,0.6490285992622375,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-02 01:00:00,NO TRADE,BULLISH / RANGE,0.5229480266571045,,Volatility model confidence is below 60%.
+2026-07-02 05:00:00,NO TRADE,BEARISH / RANGE,0.5113880038261414,,Volatility model confidence is below 60%.
+2026-07-02 09:00:00,NO TRADE,RANGE / RANGE,0.8581936359405518,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-02 13:00:00,NO TRADE,BULLISH / RANGE,0.5613913536071777,,Volatility model confidence is below 60%.
+2026-07-02 17:00:00,NO TRADE,BULLISH / RANGE,0.6501989364624023,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-02 21:00:00,NO TRADE,BEARISH / RANGE,0.6059516072273254,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-03 01:00:00,NO TRADE,RANGE / RANGE,0.654865026473999,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-03 05:00:00,NO TRADE,RANGE / BULLISH,0.9326894283294678,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-03 09:00:00,NO TRADE,RANGE / BULLISH,0.8605144619941711,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-03 13:00:00,NO TRADE,BULLISH / BULLISH,0.5585150122642517,,Volatility model confidence is below 60%.
+2026-07-03 17:00:00,NO TRADE,BULLISH / BULLISH,0.5890997052192688,,Volatility model confidence is below 60%.
+2026-07-03 21:00:00,NO TRADE,RANGE / BULLISH,0.6319079995155334,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-04 01:00:00,NO TRADE,BULLISH / BULLISH,0.5077784657478333,,Volatility model confidence is below 60%.
+2026-07-04 05:00:00,NO TRADE,BEARISH / BULLISH,0.5627785921096802,,Volatility model confidence is below 60%.
+2026-07-04 09:00:00,NO TRADE,BEARISH / BULLISH,0.6427602767944336,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-04 13:00:00,NO TRADE,RANGE / BULLISH,0.6892440915107727,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-04 17:00:00,NO TRADE,BULLISH / BULLISH,0.5566481351852417,,Volatility model confidence is below 60%.
+2026-07-04 21:00:00,NO TRADE,BULLISH / BULLISH,0.5632785558700562,,Volatility model confidence is below 60%.
+2026-07-05 01:00:00,NO TRADE,RANGE / BULLISH,0.5613571405410767,,Volatility model confidence is below 60%.
+2026-07-05 05:00:00,NO TRADE,RANGE / RANGE,0.5846920013427734,,Volatility model confidence is below 60%.
+2026-07-05 09:00:00,NO TRADE,RANGE / BULLISH,0.5650140047073364,,Volatility model confidence is below 60%.
+2026-07-05 13:00:00,NO TRADE,BEARISH / RANGE,0.5434008836746216,,Volatility model confidence is below 60%.
+2026-07-05 17:00:00,NO TRADE,BULLISH / RANGE,0.6993154287338257,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-05 21:00:00,NO TRADE,RANGE / RANGE,0.5970401763916016,,Volatility model confidence is below 60%.
+2026-07-06 01:00:00,NO TRADE,BULLISH SETUP,0.796662449836731,,"BUY setup detected, but R:R is only 0.44. Required R:R is greater than 2.5."
+2026-07-06 05:00:00,NO TRADE,BEARISH / BULLISH,0.7278035283088684,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-06 09:00:00,NO TRADE,BEARISH / RANGE,0.6931279897689819,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-06 13:00:00,NO TRADE,BEARISH / RANGE,0.8459482192993164,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-06 17:00:00,NO TRADE,BEARISH / BULLISH,0.6141775250434875,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-06 21:00:00,BUY,BULLISH STRUCTURE,0.9345997309684754,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-07-07 01:00:00,NO TRADE,BULLISH / BULLISH,0.5714401006698608,,Volatility model confidence is below 60%.
+2026-07-07 05:00:00,NO TRADE,BULLISH / RANGE,0.57359778881073,,Volatility model confidence is below 60%.
+2026-07-07 09:00:00,NO TRADE,BEARISH / RANGE,0.8542555570602417,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-07 13:00:00,NO TRADE,BULLISH SETUP,0.8069471716880798,,"BUY setup detected, but R:R is only 0.96. Required R:R is greater than 2.5."
+2026-07-07 17:00:00,NO TRADE,RANGE / BULLISH,0.5156401991844177,,Volatility model confidence is below 60%.
+2026-07-07 21:00:00,NO TRADE,BULLISH / BULLISH,0.5586148500442505,,Volatility model confidence is below 60%.
+2026-07-08 01:00:00,NO TRADE,BEARISH / BULLISH,0.5427088141441345,,Volatility model confidence is below 60%.
+2026-07-08 05:00:00,NO TRADE,BEARISH / RANGE,0.5357170104980469,,Volatility model confidence is below 60%.
+2026-07-08 09:00:00,NO TRADE,BEARISH / RANGE,0.5465267896652222,,Volatility model confidence is below 60%.
+2026-07-08 13:00:00,NO TRADE,BEARISH / RANGE,0.581146776676178,,Volatility model confidence is below 60%.
+2026-07-08 17:00:00,NO TRADE,BEARISH / RANGE,0.5592902302742004,,Volatility model confidence is below 60%.
+2026-07-08 21:00:00,NO TRADE,RANGE / RANGE,0.5709779262542725,,Volatility model confidence is below 60%.
+2026-07-09 01:00:00,NO TRADE,BULLISH / RANGE,0.5961577892303467,,Volatility model confidence is below 60%.
+2026-07-09 05:00:00,NO TRADE,RANGE / RANGE,0.5695317983627319,,Volatility model confidence is below 60%.
+2026-07-09 09:00:00,NO TRADE,RANGE / RANGE,0.6744687557220459,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-09 13:00:00,NO TRADE,BEARISH / RANGE,0.8337130546569824,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-09 17:00:00,NO TRADE,BULLISH / RANGE,0.7544545531272888,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-09 21:00:00,NO TRADE,BULLISH / BULLISH,0.5978894233703613,,Volatility model confidence is below 60%.
+2026-07-10 01:00:00,NO TRADE,RANGE / BULLISH,0.6042932271957397,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-10 05:00:00,BUY,BULLISH STRUCTURE,0.95,3.000000000000006,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-07-10 09:00:00,BUY,BULLISH STRUCTURE,0.95,2.9999999999999876,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-07-10 13:00:00,NO TRADE,BULLISH SETUP,0.8423266410827637,,"BUY setup detected, but R:R is only 0.02. Required R:R is greater than 2.5."
+2026-07-10 17:00:00,NO TRADE,RANGE / BULLISH,0.5370495319366455,,Volatility model confidence is below 60%.
+2026-07-10 21:00:00,NO TRADE,BEARISH / RANGE,0.8272606134414673,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-11 01:00:00,NO TRADE,RANGE / BULLISH,0.6023460626602173,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-11 05:00:00,NO TRADE,BULLISH SETUP,0.6350299119949341,,"BUY setup detected, but R:R is only 0.45. Required R:R is greater than 2.5."
+2026-07-11 09:00:00,NO TRADE,RANGE / BULLISH,0.6791427135467529,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-11 13:00:00,NO TRADE,BULLISH SETUP,0.6772059202194214,,"BUY setup detected, but R:R is only 0.38. Required R:R is greater than 2.5."
+2026-07-11 17:00:00,NO TRADE,RANGE / BULLISH,0.7369024157524109,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-11 21:00:00,NO TRADE,RANGE / BULLISH,0.6683779954910278,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-12 01:00:00,NO TRADE,BULLISH / RANGE,0.6956334710121155,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-12 05:00:00,NO TRADE,BEARISH / RANGE,0.5404666066169739,,Volatility model confidence is below 60%.
+2026-07-12 09:00:00,NO TRADE,RANGE / RANGE,0.7854353189468384,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-12 13:00:00,NO TRADE,RANGE / RANGE,0.5399245023727417,,Volatility model confidence is below 60%.
+2026-07-12 17:00:00,HOLD,BULLISH STRUCTURE,0.6733208298683167,,"Bullish market structure and trend exist, but complete trade confirmation is missing."
+2026-07-12 21:00:00,NO TRADE,RANGE / BULLISH,0.6465040445327759,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-13 01:00:00,NO TRADE,BEARISH / BULLISH,0.6859467029571533,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-13 05:00:00,NO TRADE,RANGE / RANGE,0.7021336555480957,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-13 09:00:00,NO TRADE,RANGE / RANGE,0.7683360576629639,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-13 13:00:00,NO TRADE,RANGE / RANGE,0.7621167898178101,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-13 17:00:00,NO TRADE,BEARISH / RANGE,0.7476604580879211,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-13 21:00:00,NO TRADE,BEARISH SETUP,0.6412278413772583,,"SELL setup detected, but R:R is only 0.26. Required R:R is greater than 2.5."
+2026-07-14 01:00:00,NO TRADE,BEARISH SETUP,0.6136568188667297,,"SELL setup detected, but R:R is only 1.36. Required R:R is greater than 2.5."
+2026-07-14 05:00:00,NO TRADE,RANGE / RANGE,0.6079119443893433,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-14 09:00:00,NO TRADE,BULLISH / RANGE,0.5295981764793396,,Volatility model confidence is below 60%.
+2026-07-14 13:00:00,NO TRADE,RANGE / RANGE,0.7059051990509033,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-14 17:00:00,NO TRADE,BULLISH / RANGE,0.5955679416656494,,Volatility model confidence is below 60%.
+2026-07-14 21:00:00,NO TRADE,RANGE / BULLISH,0.6533147096633911,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-15 01:00:00,NO TRADE,BULLISH SETUP,0.676002562046051,,"BUY setup detected, but R:R is only 0.79. Required R:R is greater than 2.5."
+2026-07-15 05:00:00,NO TRADE,BEARISH / BULLISH,0.5100569128990173,,Volatility model confidence is below 60%.
+2026-07-15 09:00:00,NO TRADE,RANGE / BULLISH,0.9520271420478821,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-15 13:00:00,NO TRADE,RANGE / BULLISH,0.5408432483673096,,Volatility model confidence is below 60%.
+2026-07-15 17:00:00,NO TRADE,RANGE / BULLISH,0.5007448196411133,,Volatility model confidence is below 60%.
+2026-07-15 21:00:00,NO TRADE,RANGE / BULLISH,0.7390952110290527,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-16 01:00:00,NO TRADE,BEARISH / RANGE,0.5361981391906738,,Volatility model confidence is below 60%.
+2026-07-16 05:00:00,NO TRADE,BEARISH / RANGE,0.7365263104438782,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-16 09:00:00,NO TRADE,BULLISH / RANGE,0.8053264617919922,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-16 13:00:00,NO TRADE,BEARISH / RANGE,0.6771900057792664,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-16 17:00:00,NO TRADE,BULLISH / RANGE,0.6487194299697876,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-16 21:00:00,NO TRADE,RANGE / RANGE,0.5662819147109985,,Volatility model confidence is below 60%.
+2026-07-17 01:00:00,NO TRADE,RANGE / RANGE,0.6845657825469971,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-17 05:00:00,NO TRADE,BEARISH / RANGE,0.718413233757019,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-17 09:00:00,NO TRADE,BEARISH / RANGE,0.7234060168266296,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-17 13:00:00,NO TRADE,BEARISH / RANGE,0.7383456826210022,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-17 17:00:00,NO TRADE,BULLISH / RANGE,0.7796710133552551,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-17 21:00:00,NO TRADE,BULLISH / RANGE,0.5450140833854675,,Volatility model confidence is below 60%.
+2026-07-18 01:00:00,NO TRADE,BEARISH / RANGE,0.743064284324646,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-18 05:00:00,NO TRADE,BULLISH / RANGE,0.6615004539489746,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-18 09:00:00,NO TRADE,BEARISH / RANGE,0.5189504623413086,,Volatility model confidence is below 60%.
+2026-07-18 13:00:00,NO TRADE,BEARISH / BULLISH,0.7053593993186951,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-18 17:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-07-18 21:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-07-19 01:00:00,NO TRADE,BULLISH SETUP,0.8808794617652893,,"BUY setup detected, but R:R is only 0.48. Required R:R is greater than 2.5."
+2026-07-19 05:00:00,NO TRADE,BULLISH SETUP,0.8556040525436401,,"BUY setup detected, but R:R is only 1.16. Required R:R is greater than 2.5."
+2026-07-19 09:00:00,NO TRADE,BEARISH / BULLISH,0.8113657832145691,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-19 13:00:00,NO TRADE,BEARISH / RANGE,0.7323506474494934,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-19 17:00:00,NO TRADE,BEARISH / RANGE,0.8201056122779846,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-19 21:00:00,NO TRADE,RANGE / BULLISH,0.804475724697113,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-20 01:00:00,NO TRADE,BULLISH / RANGE,0.6685776710510254,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-20 05:00:00,NO TRADE,BULLISH / RANGE,0.7703961730003357,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-20 09:00:00,NO TRADE,RANGE / RANGE,0.7917620539665222,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-20 13:00:00,NO TRADE,RANGE / BULLISH,0.6490665674209595,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-20 17:00:00,NO TRADE,BULLISH SETUP,0.6341546773910522,,"BUY setup detected, but R:R is only 0.05. Required R:R is greater than 2.5."
+2026-07-20 21:00:00,NO TRADE,BULLISH SETUP,0.7581692934036255,,"BUY setup detected, but R:R is only 0.80. Required R:R is greater than 2.5."
+2026-07-21 01:00:00,NO TRADE,RANGE / BULLISH,0.7432193756103516,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-21 05:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-07-21 09:00:00,NO TRADE,BULLISH / BULLISH,0.5422322750091553,,Volatility model confidence is below 60%.
+2026-07-21 13:00:00,NO TRADE,BULLISH / BULLISH,0.5897341370582581,,Volatility model confidence is below 60%.
+2026-07-21 17:00:00,NO TRADE,BULLISH SETUP,0.6800794005393982,,"BUY setup detected, but R:R is only 2.02. Required R:R is greater than 2.5."
+2026-07-21 22:00:00,NO TRADE,BEARISH / BULLISH,0.5065995454788208,,Volatility model confidence is below 60%.
+2026-07-22 02:00:00,NO TRADE,BULLISH / BULLISH,0.5627089142799377,,Volatility model confidence is below 60%.
+2026-07-22 06:00:00,NO TRADE,BEARISH / RANGE,0.5174291133880615,,Volatility model confidence is below 60%.
+2026-07-22 10:00:00,NO TRADE,BEARISH / RANGE,0.6668355464935303,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-22 14:00:00,NO TRADE,BEARISH / RANGE,0.7140994668006897,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-22 18:00:00,NO TRADE,RANGE / RANGE,0.5092777609825134,,Volatility model confidence is below 60%.
+2026-07-22 22:00:00,NO TRADE,BULLISH SETUP,0.6642046570777893,,"BUY setup detected, but R:R is only 0.85. Required R:R is greater than 2.5."
+2026-07-23 02:00:00,NO TRADE,BULLISH / RANGE,0.6601436734199524,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-23 06:00:00,NO TRADE,RANGE / RANGE,0.6438885927200317,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-23 10:00:00,NO TRADE,BEARISH / RANGE,0.5573770999908447,,Volatility model confidence is below 60%.
+2026-07-23 14:00:00,NO TRADE,BEARISH / RANGE,0.7961533665657043,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-23 18:00:00,NO TRADE,BEARISH / RANGE,0.7665500044822693,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-23 22:00:00,NO TRADE,RANGE / RANGE,0.7504215836524963,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-24 02:00:00,NO TRADE,RANGE / RANGE,0.7002993822097778,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-24 06:00:00,NO TRADE,BULLISH / RANGE,0.6192899346351624,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-24 10:00:00,NO TRADE,BULLISH / RANGE,0.6307884454727173,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-24 14:00:00,NO TRADE,RANGE / RANGE,0.7548112273216248,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-24 18:00:00,NO TRADE,BEARISH / RANGE,0.6009151339530945,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-24 22:00:00,NO TRADE,BEARISH SETUP,0.7110112905502319,,"SELL setup detected, but R:R is only 1.12. Required R:R is greater than 2.5."
+2026-07-25 02:00:00,NO TRADE,RANGE / BEARISH,0.5383896827697754,,Volatility model confidence is below 60%.
+2026-07-25 06:00:00,NO TRADE,RANGE / BEARISH,0.6046091914176941,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-25 10:00:00,NO TRADE,BEARISH SETUP,0.932341456413269,,"SELL setup detected, but R:R is only 1.70. Required R:R is greater than 2.5."
+2026-07-25 14:00:00,NO TRADE,RANGE / RANGE,0.798653244972229,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-25 18:00:00,NO TRADE,BULLISH / RANGE,0.6899060606956482,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-25 22:00:00,NO TRADE,BULLISH / RANGE,0.7841757535934448,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-26 02:00:00,NO TRADE,RANGE / RANGE,0.5208752155303955,,Volatility model confidence is below 60%.
+2026-07-26 06:00:00,NO TRADE,BULLISH / RANGE,0.6238613128662109,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-26 10:00:00,NO TRADE,RANGE / RANGE,0.7811142802238464,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-26 14:00:00,NO TRADE,RANGE / RANGE,0.7078361511230469,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-26 18:00:00,NO TRADE,BULLISH / RANGE,0.6813201904296875,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-26 22:00:00,NO TRADE,RANGE / RANGE,0.9129987359046936,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-27 02:00:00,NO TRADE,RANGE / RANGE,0.7816463708877563,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-27 06:00:00,NO TRADE,RANGE / RANGE,0.6935790181159973,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-27 10:00:00,NO TRADE,BULLISH SETUP,0.7577901482582092,,"BUY setup detected, but R:R is only 0.93. Required R:R is greater than 2.5."
+2026-07-27 14:00:00,NO TRADE,BEARISH / BULLISH,0.6827210187911987,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-27 18:00:00,NO TRADE,RANGE / BULLISH,0.5868579149246216,,Volatility model confidence is below 60%.
+2026-07-27 22:00:00,NO TRADE,RANGE / RANGE,0.7796251177787781,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-28 02:00:00,NO TRADE,RANGE / BEARISH,0.7141367793083191,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-28 06:00:00,NO TRADE,BEARISH SETUP,0.6246715784072876,,"SELL setup detected, but R:R is only 1.45. Required R:R is greater than 2.5."
+2026-07-28 10:00:00,NO TRADE,RANGE / BEARISH,0.6620022654533386,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-28 14:00:00,NO TRADE,BULLISH / BEARISH,0.6618079543113708,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-28 18:00:00,NO TRADE,RANGE / BEARISH,0.7755147814750671,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-28 22:00:00,NO TRADE,BULLISH / RANGE,0.5077348351478577,,Volatility model confidence is below 60%.
+2026-07-29 02:00:00,NO TRADE,BULLISH / BEARISH,0.5201696753501892,,Volatility model confidence is below 60%.
+2026-07-29 06:00:00,NO TRADE,BEARISH / RANGE,0.6219069957733154,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-29 10:00:00,NO TRADE,RANGE / RANGE,0.5983834266662598,,Volatility model confidence is below 60%.
+2026-07-29 14:00:00,NO TRADE,BULLISH / RANGE,0.5239363312721252,,Volatility model confidence is below 60%.
+2026-07-29 18:00:00,NO TRADE,BEARISH / RANGE,0.6814028024673462,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-29 22:00:00,NO TRADE,BEARISH SETUP,0.6619462966918945,,"SELL setup detected, but R:R is only 0.45. Required R:R is greater than 2.5."
+2026-07-30 02:00:00,NO TRADE,RANGE / RANGE,0.6675037145614624,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-30 06:00:00,NO TRADE,BULLISH / BEARISH,0.6426352858543396,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-30 10:00:00,NO TRADE,RANGE / RANGE,0.5884913802146912,,Volatility model confidence is below 60%.
+2026-07-30 14:00:00,NO TRADE,BULLISH / RANGE,0.5077329277992249,,Volatility model confidence is below 60%.
+2026-07-30 18:00:00,NO TRADE,BULLISH / RANGE,0.7554861307144165,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-30 22:00:00,NO TRADE,RANGE / RANGE,0.59431391954422,,Volatility model confidence is below 60%.
+2026-07-31 02:00:00,NO TRADE,RANGE / RANGE,0.7544831037521362,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-31 06:00:00,NO TRADE,RANGE / RANGE,0.65230393409729,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-07-31 10:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-07-31 14:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-07-31 18:00:00,NO TRADE,BEARISH SETUP,0.7794029712677002,,"SELL setup detected, but R:R is only 0.84. Required R:R is greater than 2.5."
+2026-07-31 22:00:00,NO TRADE,BEARISH SETUP,0.6144788861274719,,"SELL setup detected, but R:R is only 1.25. Required R:R is greater than 2.5."
+2026-08-01 02:00:00,NO TRADE,RANGE / BEARISH,0.567596435546875,,Volatility model confidence is below 60%.
+2026-08-01 06:00:00,NO TRADE,BULLISH / BEARISH,0.6827415227890015,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-01 10:00:00,NO TRADE,BULLISH / BEARISH,0.9323777556419373,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-01 14:00:00,HOLD,BEARISH STRUCTURE,0.9198563694953918,,"Bearish market structure and trend exist, but complete trade confirmation is missing."
+2026-08-01 18:00:00,NO TRADE,BULLISH / BEARISH,0.9484668374061584,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-01 22:00:00,NO TRADE,RANGE / BEARISH,0.7747743129730225,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-02 02:00:00,NO TRADE,RANGE / RANGE,0.8424856066703796,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-02 06:00:00,NO TRADE,RANGE / RANGE,0.5289511680603027,,Volatility model confidence is below 60%.
+2026-08-02 10:00:00,NO TRADE,RANGE / RANGE,0.5586886405944824,,Volatility model confidence is below 60%.
+2026-08-02 14:00:00,NO TRADE,BEARISH / BEARISH,0.5776593089103699,,Volatility model confidence is below 60%.
+2026-08-02 18:00:00,NO TRADE,RANGE / RANGE,0.6469653248786926,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-02 22:00:00,NO TRADE,BULLISH / RANGE,0.59528648853302,,Volatility model confidence is below 60%.
+2026-08-03 02:00:00,NO TRADE,BULLISH / RANGE,0.6537538170814514,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-03 06:00:00,NO TRADE,BULLISH / BEARISH,0.7840483784675598,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-03 10:00:00,NO TRADE,RANGE / BEARISH,0.8118226528167725,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-03 14:00:00,NO TRADE,RANGE / RANGE,0.8995015025138855,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-03 18:00:00,NO TRADE,BULLISH / RANGE,0.5610067844390869,,Volatility model confidence is below 60%.
+2026-08-03 22:00:00,NO TRADE,BULLISH / RANGE,0.5623561143875122,,Volatility model confidence is below 60%.
+2026-08-04 02:00:00,NO TRADE,RANGE / RANGE,0.5869958996772766,,Volatility model confidence is below 60%.
+2026-08-04 06:00:00,NO TRADE,BULLISH / RANGE,0.6389718055725098,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-04 10:00:00,NO TRADE,RANGE / RANGE,0.9266791343688965,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-04 14:00:00,NO TRADE,RANGE / RANGE,0.5886439085006714,,Volatility model confidence is below 60%.
+2026-08-04 18:00:00,NO TRADE,RANGE / RANGE,0.5220745205879211,,Volatility model confidence is below 60%.
+2026-08-04 22:00:00,NO TRADE,BULLISH / RANGE,0.6952689290046692,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-05 02:00:00,NO TRADE,BULLISH / BULLISH,0.5489713549613953,,Volatility model confidence is below 60%.
+2026-08-05 06:00:00,NO TRADE,RANGE / BULLISH,0.5911827087402344,,Volatility model confidence is below 60%.
+2026-08-05 10:00:00,NO TRADE,BEARISH / BULLISH,0.8310681581497192,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-05 14:00:00,NO TRADE,BULLISH SETUP,0.6363497376441956,,"BUY setup detected, but R:R is only 0.23. Required R:R is greater than 2.5."
+2026-08-05 18:00:00,NO TRADE,RANGE / BULLISH,0.632726788520813,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-05 22:00:00,NO TRADE,RANGE / BULLISH,0.5411506295204163,,Volatility model confidence is below 60%.
+2026-08-06 02:00:00,NO TRADE,RANGE / BULLISH,0.6730844974517822,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-06 06:00:00,NO TRADE,BULLISH SETUP,0.776561975479126,,"BUY setup detected, but R:R is only 0.39. Required R:R is greater than 2.5."
+2026-08-06 10:00:00,NO TRADE,BULLISH / BULLISH,0.5161042809486389,,Volatility model confidence is below 60%.
+2026-08-06 14:00:00,NO TRADE,BULLISH / RANGE,0.6821607947349548,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-06 18:00:00,NO TRADE,BEARISH / RANGE,0.5390855073928833,,Volatility model confidence is below 60%.
+2026-08-06 22:00:00,NO TRADE,RANGE / RANGE,0.5458205938339233,,Volatility model confidence is below 60%.
+2026-08-07 02:00:00,NO TRADE,BEARISH / RANGE,0.5925846099853516,,Volatility model confidence is below 60%.
+2026-08-07 06:00:00,NO TRADE,RANGE / RANGE,0.7092843651771545,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-07 10:00:00,NO TRADE,RANGE / BULLISH,0.7472255229949951,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-07 14:00:00,NO TRADE,BULLISH SETUP,0.7123995423316956,,"BUY setup detected, but R:R is only 0.62. Required R:R is greater than 2.5."
+2026-08-07 18:00:00,NO TRADE,BULLISH SETUP,0.6777487397193909,,"BUY setup detected, but R:R is only 1.92. Required R:R is greater than 2.5."
+2026-08-07 22:00:00,NO TRADE,RANGE / BULLISH,0.5018405318260193,,Volatility model confidence is below 60%.
+2026-08-08 02:00:00,NO TRADE,BEARISH / BULLISH,0.5339731574058533,,Volatility model confidence is below 60%.
+2026-08-08 06:00:00,NO TRADE,BULLISH SETUP,0.6710679531097412,,"BUY setup detected, but R:R is only 0.38. Required R:R is greater than 2.5."
+2026-08-08 10:00:00,HOLD,BULLISH STRUCTURE,0.7339258193969727,,"Bullish market structure and trend exist, but complete trade confirmation is missing."
+2026-08-08 14:00:00,NO TRADE,RANGE / BULLISH,0.627139687538147,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-08 18:00:00,NO TRADE,BULLISH / BULLISH,0.5066879391670227,,Volatility model confidence is below 60%.
+2026-08-08 22:00:00,NO TRADE,BEARISH / RANGE,0.6769211888313293,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-09 02:00:00,NO TRADE,BEARISH / RANGE,0.7744491696357727,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-09 06:00:00,NO TRADE,BEARISH / RANGE,0.915583610534668,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-09 10:00:00,NO TRADE,BULLISH / RANGE,0.8820470571517944,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-09 14:00:00,BUY,BULLISH STRUCTURE,0.95,3.000000000000021,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-08-09 18:00:00,NO TRADE,RANGE / BULLISH,0.7164516448974609,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-09 22:00:00,NO TRADE,BEARISH / BULLISH,0.9054250121116638,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-10 02:00:00,NO TRADE,RANGE / BULLISH,0.8115938305854797,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-10 06:00:00,NO TRADE,BEARISH / BULLISH,0.7528656125068665,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-10 10:00:00,NO TRADE,BEARISH / RANGE,0.5385890007019043,,Volatility model confidence is below 60%.
+2026-08-10 14:00:00,NO TRADE,RANGE / RANGE,0.7737534046173096,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-10 18:00:00,NO TRADE,BEARISH / RANGE,0.7371827960014343,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-10 22:00:00,NO TRADE,BEARISH / RANGE,0.601428210735321,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-11 02:00:00,NO TRADE,RANGE / RANGE,0.658831000328064,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-11 06:00:00,NO TRADE,RANGE / RANGE,0.6097400784492493,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-11 10:00:00,NO TRADE,BEARISH / RANGE,0.8863993287086487,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-11 14:00:00,NO TRADE,RANGE / RANGE,0.520423173904419,,Volatility model confidence is below 60%.
+2026-08-11 18:00:00,NO TRADE,RANGE / BEARISH,0.8117920160293579,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-11 22:00:00,NO TRADE,RANGE / BEARISH,0.5711356401443481,,Volatility model confidence is below 60%.
+2026-08-12 02:00:00,NO TRADE,RANGE / BEARISH,0.6439083218574524,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-12 06:00:00,NO TRADE,RANGE / RANGE,0.6961103081703186,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-12 10:00:00,NO TRADE,BEARISH / RANGE,0.5194488763809204,,Volatility model confidence is below 60%.
+2026-08-12 14:00:00,NO TRADE,BULLISH / BEARISH,0.6651541590690613,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-12 18:00:00,NO TRADE,BEARISH / BEARISH,0.5034698843955994,,Volatility model confidence is below 60%.
+2026-08-12 22:00:00,NO TRADE,BEARISH / BEARISH,0.5691812038421631,,Volatility model confidence is below 60%.
+2026-08-13 02:00:00,NO TRADE,BULLISH / BEARISH,0.5627613067626953,,Volatility model confidence is below 60%.
+2026-08-13 06:00:00,NO TRADE,BULLISH / RANGE,0.5033749938011169,,Volatility model confidence is below 60%.
+2026-08-13 10:00:00,NO TRADE,RANGE / RANGE,0.5031423568725586,,Volatility model confidence is below 60%.
+2026-08-13 14:00:00,NO TRADE,BEARISH / RANGE,0.7459463477134705,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-13 18:00:00,NO TRADE,RANGE / BEARISH,0.6498276591300964,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-13 22:00:00,NO TRADE,BEARISH / BEARISH,0.5246395468711853,,Volatility model confidence is below 60%.
+2026-08-14 02:00:00,NO TRADE,BULLISH / RANGE,0.5973729491233826,,Volatility model confidence is below 60%.
+2026-08-14 06:00:00,NO TRADE,BEARISH / BEARISH,0.511808454990387,,Volatility model confidence is below 60%.
+2026-08-14 10:00:00,NO TRADE,BEARISH SETUP,0.61078280210495,,"SELL setup detected, but R:R is only 0.14. Required R:R is greater than 2.5."
+2026-08-14 14:00:00,NO TRADE,RANGE / BEARISH,0.8382207155227661,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-14 18:00:00,NO TRADE,BEARISH SETUP,0.7053140997886658,,"SELL setup detected, but R:R is only 1.35. Required R:R is greater than 2.5."
+2026-08-14 22:00:00,NO TRADE,RANGE / BEARISH,0.5013178586959839,,Volatility model confidence is below 60%.
+2026-08-15 02:00:00,NO TRADE,RANGE / RANGE,0.6240144968032837,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-15 06:00:00,NO TRADE,RANGE / RANGE,0.521553635597229,,Volatility model confidence is below 60%.
+2026-08-15 10:00:00,NO TRADE,RANGE / BEARISH,0.9370636940002441,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-15 14:00:00,NO TRADE,RANGE / RANGE,0.8340890407562256,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-15 18:00:00,NO TRADE,BULLISH / RANGE,0.7656512260437012,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-15 22:00:00,NO TRADE,BULLISH / RANGE,0.5640313625335693,,Volatility model confidence is below 60%.
+2026-08-16 02:00:00,NO TRADE,BULLISH / RANGE,0.6012362241744995,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-16 06:00:00,NO TRADE,RANGE / BEARISH,0.6303400993347168,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-16 10:00:00,NO TRADE,RANGE / BEARISH,0.5969287157058716,,Volatility model confidence is below 60%.
+2026-08-16 14:00:00,NO TRADE,BEARISH / RANGE,0.5378026366233826,,Volatility model confidence is below 60%.
+2026-08-16 18:00:00,NO TRADE,RANGE / RANGE,0.6083000302314758,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-16 22:00:00,SELL,BEARISH STRUCTURE,0.95,3.0,Bearish structure + bearish trend + momentum confirmation + valid risk/reward.
+2026-08-17 02:00:00,NO TRADE,RANGE / RANGE,0.902006983757019,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-17 06:00:00,NO TRADE,RANGE / RANGE,0.8624643087387085,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-17 10:00:00,NO TRADE,BULLISH / RANGE,0.7104676961898804,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-17 14:00:00,NO TRADE,BULLISH / RANGE,0.7774151563644409,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-17 18:00:00,NO TRADE,BULLISH / RANGE,0.7013812065124512,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-17 22:00:00,NO TRADE,BULLISH / RANGE,0.6204058527946472,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-18 02:00:00,NO TRADE,BULLISH / RANGE,0.5031118392944336,,Volatility model confidence is below 60%.
+2026-08-18 06:00:00,NO TRADE,RANGE / BULLISH,0.5310505032539368,,Volatility model confidence is below 60%.
+2026-08-18 10:00:00,NO TRADE,RANGE / BULLISH,0.7037274241447449,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-18 14:00:00,NO TRADE,RANGE / BULLISH,0.6346028447151184,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-18 18:00:00,NO TRADE,BEARISH / BULLISH,0.7096128463745117,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-18 22:00:00,NO TRADE,RANGE / BULLISH,0.6622914671897888,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-19 02:00:00,NO TRADE,BEARISH / RANGE,0.6458191871643066,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-19 06:00:00,NO TRADE,BEARISH / RANGE,0.6688042879104614,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-19 10:00:00,NO TRADE,BULLISH / BULLISH,0.5244705677032471,,Volatility model confidence is below 60%.
+2026-08-19 14:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-08-19 18:00:00,NO TRADE,BULLISH SETUP,0.7950253486633301,,"BUY setup detected, but R:R is only 0.27. Required R:R is greater than 2.5."
+2026-08-19 22:00:00,NO TRADE,BULLISH SETUP,0.7930235862731934,,"BUY setup detected, but R:R is only 0.17. Required R:R is greater than 2.5."
+2026-08-20 02:00:00,NO TRADE,BULLISH SETUP,0.7722802758216858,,"BUY setup detected, but R:R is only 0.68. Required R:R is greater than 2.5."
+2026-08-20 06:00:00,NO TRADE,BEARISH / BULLISH,0.585105299949646,,Volatility model confidence is below 60%.
+2026-08-20 10:00:00,NO TRADE,RANGE / BULLISH,0.7717828750610352,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-20 14:00:00,NO TRADE,BULLISH / BULLISH,0.5580970048904419,,Volatility model confidence is below 60%.
+2026-08-20 18:00:00,NO TRADE,RANGE / BULLISH,0.575641930103302,,Volatility model confidence is below 60%.
+2026-08-20 22:00:00,NO TRADE,BULLISH / BULLISH,0.5060660243034363,,Volatility model confidence is below 60%.
+2026-08-21 02:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-08-21 06:00:00,NO TRADE,BULLISH SETUP,0.6843385100364685,,"BUY setup detected, but R:R is only 0.10. Required R:R is greater than 2.5."
+2026-08-21 10:00:00,NO TRADE,BULLISH SETUP,0.7713683843612671,,"BUY setup detected, but R:R is only 0.47. Required R:R is greater than 2.5."
+2026-08-21 14:00:00,NO TRADE,BULLISH SETUP,0.6124355792999268,,"BUY setup detected, but R:R is only 1.41. Required R:R is greater than 2.5."
+2026-08-21 18:00:00,NO TRADE,BULLISH SETUP,0.604622483253479,,"BUY setup detected, but R:R is only 0.53. Required R:R is greater than 2.5."
+2026-08-21 22:00:00,NO TRADE,BEARISH / BULLISH,0.8407638072967529,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-22 02:00:00,NO TRADE,BULLISH SETUP,0.952157199382782,,"BUY setup detected, but R:R is only 0.30. Required R:R is greater than 2.5."
+2026-08-22 06:00:00,NO TRADE,BULLISH / RANGE,0.9605291485786438,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-22 10:00:00,NO TRADE,BEARISH / RANGE,0.7647136449813843,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-22 14:00:00,NO TRADE,RANGE / RANGE,0.6101205945014954,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-22 18:00:00,HOLD,BULLISH STRUCTURE,0.7732869982719421,,"Bullish market structure and trend exist, but complete trade confirmation is missing."
+2026-08-22 22:00:00,NO TRADE,RANGE / RANGE,0.6654119491577148,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-23 02:00:00,NO TRADE,BEARISH / RANGE,0.9532777070999146,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-23 06:00:00,NO TRADE,BEARISH / RANGE,0.6813154220581055,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-23 10:00:00,NO TRADE,BEARISH / RANGE,0.8109084367752075,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-23 14:00:00,NO TRADE,RANGE / BULLISH,0.7396716475486755,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-23 18:00:00,NO TRADE,RANGE / BULLISH,0.5957573056221008,,Volatility model confidence is below 60%.
+2026-08-23 22:00:00,BUY,BULLISH STRUCTURE,0.95,3.0,Bullish structure + bullish trend + momentum confirmation + valid risk/reward.
+2026-08-24 02:00:00,NO TRADE,BULLISH / RANGE,0.5815485119819641,,Volatility model confidence is below 60%.
+2026-08-24 06:00:00,NO TRADE,RANGE / RANGE,0.5608547925949097,,Volatility model confidence is below 60%.
+2026-08-24 10:00:00,NO TRADE,RANGE / BULLISH,0.6106370687484741,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-24 14:00:00,NO TRADE,RANGE / BULLISH,0.5998721718788147,,Volatility model confidence is below 60%.
+2026-08-24 18:00:00,NO TRADE,BULLISH / BULLISH,0.5613855123519897,,Volatility model confidence is below 60%.
+2026-08-24 22:00:00,NO TRADE,RANGE / BULLISH,0.6817435026168823,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-25 02:00:00,NO TRADE,RANGE / BULLISH,0.6156302690505981,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-25 06:00:00,NO TRADE,BULLISH SETUP,0.6027305722236633,,"BUY setup detected, but R:R is only 0.93. Required R:R is greater than 2.5."
+2026-08-25 10:00:00,NO TRADE,BEARISH / RANGE,0.7655914425849915,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-25 14:00:00,NO TRADE,BEARISH / RANGE,0.52715665102005,,Volatility model confidence is below 60%.
+2026-08-25 18:00:00,NO TRADE,BEARISH / RANGE,0.6457129120826721,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-25 22:00:00,NO TRADE,RANGE / RANGE,0.7271842360496521,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-26 02:00:00,NO TRADE,RANGE / RANGE,0.6364641189575195,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-26 06:00:00,NO TRADE,RANGE / BULLISH,0.7859386205673218,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-26 10:00:00,NO TRADE,RANGE / RANGE,0.6699036359786987,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-26 14:00:00,NO TRADE,BEARISH / RANGE,0.5005084276199341,,Volatility model confidence is below 60%.
+2026-08-26 18:00:00,NO TRADE,BEARISH / RANGE,0.6278261542320251,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-26 22:00:00,NO TRADE,BULLISH / RANGE,0.6337180137634277,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-27 02:00:00,NO TRADE,BULLISH / BULLISH,0.5193358659744263,,Volatility model confidence is below 60%.
+2026-08-27 06:00:00,NO TRADE,RANGE / BULLISH,0.5229747295379639,,Volatility model confidence is below 60%.
+2026-08-27 10:00:00,NO TRADE,BEARISH / BULLISH,0.5896691679954529,,Volatility model confidence is below 60%.
+2026-08-27 14:00:00,NO TRADE,BULLISH SETUP,0.8605565428733826,,"BUY setup detected, but R:R is only 0.31. Required R:R is greater than 2.5."
+2026-08-27 18:00:00,NO TRADE,RANGE / BULLISH,0.7224066257476807,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-27 22:00:00,NO TRADE,BULLISH / BULLISH,0.5532777309417725,,Volatility model confidence is below 60%.
+2026-08-28 02:00:00,NO TRADE,RANGE / BULLISH,0.5609738826751709,,Volatility model confidence is below 60%.
+2026-08-28 06:00:00,NO TRADE,RANGE / RANGE,0.7342534065246582,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-28 10:00:00,NO TRADE,BEARISH / RANGE,0.5782263875007629,,Volatility model confidence is below 60%.
+2026-08-28 14:00:00,NO TRADE,BEARISH / RANGE,0.8605439066886902,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-28 18:00:00,NO TRADE,RANGE / RANGE,0.5077714920043945,,Volatility model confidence is below 60%.
+2026-08-28 22:00:00,NO TRADE,BULLISH / RANGE,0.6009644269943237,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-29 02:00:00,NO TRADE,BEARISH / RANGE,0.5723057985305786,,Volatility model confidence is below 60%.
+2026-08-29 06:00:00,NO TRADE,RANGE / RANGE,0.6313252449035645,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-29 10:00:00,NO TRADE,BEARISH / RANGE,0.9752452969551086,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-29 14:00:00,NO TRADE,RANGE / RANGE,0.9826555252075195,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-29 18:00:00,NO TRADE,BEARISH / RANGE,0.6309634447097778,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-29 22:00:00,NO TRADE,RANGE / RANGE,0.6056644916534424,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-30 02:00:00,NO TRADE,RANGE / RANGE,0.6412729620933533,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-30 06:00:00,NO TRADE,BEARISH / RANGE,0.7617921233177185,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-30 10:00:00,NO TRADE,BULLISH / RANGE,0.6629800796508789,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-30 14:00:00,NO TRADE,RANGE / RANGE,0.7981049418449402,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-30 18:00:00,NO TRADE,BULLISH SETUP,0.7388642430305481,,"BUY setup detected, but R:R is only 0.88. Required R:R is greater than 2.5."
+2026-08-30 22:00:00,NO TRADE,BULLISH SETUP,0.612151563167572,,"BUY setup detected, but R:R is only 2.23. Required R:R is greater than 2.5."
+2026-08-31 02:00:00,NO TRADE,BEARISH / RANGE,0.6566931009292603,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-08-31 06:00:00,NO TRADE,RANGE / RANGE,0.5821967720985413,,Volatility model confidence is below 60%.
+2026-08-31 10:00:00,NO TRADE,BULLISH / RANGE,0.548700749874115,,Volatility model confidence is below 60%.
+2026-08-31 14:00:00,NO TRADE,RANGE / RANGE,0.561693549156189,,Volatility model confidence is below 60%.
+2026-08-31 18:00:00,NO TRADE,RANGE / RANGE,0.541010856628418,,Volatility model confidence is below 60%.
+2026-08-31 22:00:00,NO TRADE,BULLISH SETUP,0.6587345600128174,,"BUY setup detected, but R:R is only 1.07. Required R:R is greater than 2.5."
+2026-09-01 02:00:00,NO TRADE,BEARISH / RANGE,0.5494906902313232,,Volatility model confidence is below 60%.
+2026-09-01 06:00:00,NO TRADE,BEARISH / RANGE,0.6171717643737793,,"Market structure, trend and momentum are not sufficiently aligned for a high-quality trade."
+2026-09-01 10:00:00,NO TRADE,RANGE / RANGE,0.5967452526092529,,Volatility model confidence is below 60%.

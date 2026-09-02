@@ -44,3 +44,7 @@ models/*.pth
 # Private keys
 *.pem
 *.key
+# Large generated datasets/results
+data/processed/btc_usdt_1h_volatility.csv
+data/processed/volatility_walkforward_results.csv
+data/processed/volatility_backtest_results.csv
