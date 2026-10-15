@@ -900,7 +900,7 @@ with st.sidebar:
     st.divider()
 
     st.caption(
-        "BTC/USDT · Binance · CCXT"
+        "BTC/USDT · OKX Spot · CCXT"
     )
 
 
@@ -919,7 +919,7 @@ try:
 except Exception as e:
 
     st.error(
-        f"Unable to fetch live Binance data: {e}"
+        f"Unable to fetch live OKX data: {e}"
     )
 
     st.stop()
@@ -1962,7 +1962,7 @@ elif page == "Strategy Analytics":
         <div class="panel">
 
             <b>1. Market Data</b><br>
-            BTC/USDT 1H OHLCV from Binance
+            BTC/USDT 1H OHLCV from OKX Spot
 
             <br><br>
 
@@ -2246,7 +2246,7 @@ with st.expander(
 
 **Market Data**
 
-BTC/USDT 1-hour OHLCV candles are collected from Binance.
+BTC/USDT 1-hour OHLCV candles are collected from OKX Spot.
 
 ↓
 
@@ -2324,4 +2324,4 @@ render_html(
 
     </div>
     """
-)
+) 
