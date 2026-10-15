@@ -7,5 +7,6 @@ matplotlib
 plotly
 jupyter
 ccxt
-streamlit-autorefreshstreamlit
+streamlit-autorefresh
+streamlit
 joblib
